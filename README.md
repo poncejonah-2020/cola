@@ -1,2 +1,2 @@
-# cola
+# colas
 bases de cola
